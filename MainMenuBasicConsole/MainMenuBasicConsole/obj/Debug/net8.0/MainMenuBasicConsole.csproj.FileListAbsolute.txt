@@ -1,0 +1,14 @@
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.AssemblyInfoInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.AssemblyInfo.cs
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.csproj.CoreCompileInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\bin\Debug\net8.0\MainMenuBasicConsole.exe
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\bin\Debug\net8.0\MainMenuBasicConsole.deps.json
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\bin\Debug\net8.0\MainMenuBasicConsole.runtimeconfig.json
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\bin\Debug\net8.0\MainMenuBasicConsole.dll
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\bin\Debug\net8.0\MainMenuBasicConsole.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.dll
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\refint\MainMenuBasicConsole.dll
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\MainMenuBasicConsole.genruntimeconfig.cache
+F:\Programming\MasonJohnsonPortfolioProjects\MainMenuBasicConsole\MainMenuBasicConsole\obj\Debug\net8.0\ref\MainMenuBasicConsole.dll
