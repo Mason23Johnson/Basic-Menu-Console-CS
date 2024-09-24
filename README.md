@@ -1,59 +1,77 @@
-Basic Console Calculator - Mason Johnson
-
-  Functions such as:
-*   Addition
-*   Subtraction
-*   Multiplication
-*   Division
-      (Including Division by 0, with tendencies to infinity and negative infinity)
-
-  Additional Features:
-*   Error Catching:
-      (Invalid numbers, operators and inputs)
-*   Exit and Enter using specific letters
+Basic Console Menu - Mason Johnson
 
 
 
-  Code Examples:
-  
+Functions such as:
+  Try Catch for Errors.
+  Switch Cases for User Inputs.
+  Different Methods.
+  Entering and Exiting via User Inputs.
+  Future Capability with Easy Method Additions.
+  Example Methods Including Settings.
+  Timer for Exiting Programs.
+
+
+
+Examples:
+
   Example 1 {
-Welcome to the Calculator. Please enter any key to start, or 'e' to exit.
-y
-Please enter a number.
-100
-Enter operator (+ - * /).
-+
-Please enter a second number.
--40
-100 + -40 = 60
-Please press 'y' to restart, 'e' to exit, or any other key to retry.
+  Welcome!
+    1. Example 1
+    2. Example 2
+    3. Example 3
+    9. Settings 
+    10. Exit    
+1
+Example 1 Selected. //  Print Statement, Then Exits Back To Menu
+
+  Welcome!   
+    1. Example 1
+    2. Example 2
+    3. Example 3
+    9. Settings
+    10. Exit
+10
+Exiting the program.
+3
+2
+1
 }
 
 
 
-  Example 2{ //Restarted after pressing y in previous example (line 27).
-Restarting the calculator.
-Please enter a number.
--10 
-Enter operator (+ - * /).
-/
-Please enter a second number.
-0
-A number cannot be divided by 0, but the result tends to negative infinity.
-Please press 'y' to restart, 'e' to exit, or any other key to retry.
-}
+  Example 2{
+  Welcome!
+    1. Example 1
+    2. Example 2
+    3. Example 3
+    9. Settings
+    10. Exit
+9!
+Invalid input. Please enter a number.
 
+  Welcome!
+    1. Example 1
+    2. Example 2
+    3. Example 3
+    9. Settings
+    10. Exit
+9
+Please select one of the following.
+    1. Example A
+    2. Example B
+1
+Example A Selected.
 
-
-  Example 3{
-Please enter a number.
-0.5
-Enter operator (+ - * /).
-*
-Please enter a second number.
-123
-0.5 * 123 = 61.5
-Please press 'y' to restart, 'e' to exit, or any other key to retry.
-e
-Exiting the calculator. Goodbye!
+  Welcome!
+    1. Example 1
+    2. Example 2
+    3. Example 3
+    9. Settings
+    10. Exit
+10
+Exiting the program.
+3
+2
+1
 }
